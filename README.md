@@ -3,7 +3,7 @@ repository for SWAT running code
 ## Owners Controlling members
 -Vern Larson
 -Cameron Shilko
--Dillon Woollums once he gets a user name so I can add him (VL)
+-Dillon Woollums  
 ## Procedure
 - full edit rights for base branch is for owners only
 - programming team members have read only right to this branch
